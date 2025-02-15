@@ -1,0 +1,22 @@
+#countlable{
+    display:block;
+    text-align: center;
+    font-family: Arial;
+    font-size: 10em;
+}
+#btncontainer{
+    text-align:center;
+}
+.button{
+    padding:10px 20px;
+    color:white;
+    background-color: rgb(99, 141, 204);
+    border-radius:10px;
+    cursor:pointer;
+    transition: background-color 0.2s;
+
+}
+.button:hover{
+    background-color: rgb(8, 102, 244);
+    
+}
